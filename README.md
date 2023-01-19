@@ -35,6 +35,8 @@ Take a count of students at each school.Now finally calculate the average math s
 	  mean math score is 66.585624
 	  min math score is 5.300000
 	  max math score is 100.000000
+	  ![image](https://user-images.githubusercontent.com/119648166/213479098-8b01f584-5fbb-4a88-a2e5-c7faf2aeb935.png)
+
 	 
  - The least reading score of 10.5 is from Dixon High School.So we take a  closer look at Grade 10 reading score  for Dixon High School.The average reading score is  67.781898 and max reading score is 99.99.The average reading score for the Grade 11 and Grade 12 is 74.90038089192188
  So ,we see that the average reading score shows an increase as the grade levels go higher.
