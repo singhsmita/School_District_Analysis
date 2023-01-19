@@ -38,6 +38,7 @@ Take a count of students at each school.Now finally calculate the average math s
 	  mean math score is 66.585624
 	  min math score is 5.300000
 	  max math score is 100.000000
+	  
 	  ![image](https://user-images.githubusercontent.com/119648166/213479098-8b01f584-5fbb-4a88-a2e5-c7faf2aeb935.png)
 
 	 
