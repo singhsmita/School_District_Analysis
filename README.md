@@ -26,7 +26,10 @@ Take a count of students at each school.Now finally calculate the average math s
 ### School Summary
 
  - Average reading score for all the school is 72.357865 whereas the minimum reading score is 10.500000
+ 
  - Average math score for all the school is 64.675733 whereas the minimum math score is 3.700000
+ ![image](https://user-images.githubusercontent.com/119648166/213479700-89b67008-4594-408f-a5f5-320bbf85cb9d.png)
+
  - Upon statistical analysis for Grade 9 data ,we notice the following:-
 	 Total no of students is 4132
 	  mean reading score is 69.236713 
@@ -41,8 +44,14 @@ Take a count of students at each school.Now finally calculate the average math s
  - The least reading score of 10.5 is from Dixon High School.So we take a  closer look at Grade 10 reading score  for Dixon High School.The average reading score is  67.781898 and max reading score is 99.99.The average reading score for the Grade 11 and Grade 12 is 74.90038089192188
  So ,we see that the average reading score shows an increase as the grade levels go higher.
  - We look at the school budgets at Public School and Charter School.It is seen that Public schools have a little higher budget than Charter schools.
+  ![image](https://user-images.githubusercontent.com/119648166/213479319-d28194b9-b823-454c-b615-1b5db1106b22.png)
+
  - Montgomery High School has the highest number of students i.e 2038 and Chang High School has lowest number of students i.e 171.
+  ![image](https://user-images.githubusercontent.com/119648166/213479367-8a4ce85e-49e1-4308-8682-5ffc96292cf5.png)
+
  - The comparison between mean math score for each grade at Charter school and Public school shows that the Charter schools have higher average math score in most of the Grade levels except Grade 12.
+ ![image](https://user-images.githubusercontent.com/119648166/213479414-6d9b61f4-9000-46de-bfa2-15db5253c2d2.png)
+
  
  
 
