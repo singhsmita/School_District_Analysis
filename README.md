@@ -48,15 +48,15 @@ Take a count of students at each school.Now finally calculate the average math s
  ![image](https://user-images.githubusercontent.com/119648166/213480497-3c874acf-fdd6-4c81-b9ad-5fb8e9f28b95.png)
 
  - We look at the school budgets at Public School and Charter School.It is seen that Public schools have a little higher budget than Charter schools.
- - 
-  ![image](https://user-images.githubusercontent.com/119648166/213479319-d28194b9-b823-454c-b615-1b5db1106b22.png)
+ 
+	  ![image](https://user-images.githubusercontent.com/119648166/213479319-d28194b9-b823-454c-b615-1b5db1106b22.png)
 
  - Montgomery High School has the highest number of students i.e 2038 and Chang High School has lowest number of students i.e 171.
- - 
+ 
   ![image](https://user-images.githubusercontent.com/119648166/213479367-8a4ce85e-49e1-4308-8682-5ffc96292cf5.png)
 
  - The comparison between mean math score for each grade at Charter school and Public school shows that the Charter schools have higher average math score in most of the Grade levels except Grade 12.
- - 
+  
  ![image](https://user-images.githubusercontent.com/119648166/213479414-6d9b61f4-9000-46de-bfa2-15db5253c2d2.png)
 
  
